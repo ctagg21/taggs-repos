@@ -1,0 +1,8 @@
+Total height= height 150 + margin 40 + border 2 + padding 20
+=212px
+Total width= width 400 + margin 40 + border 2 + padding 20
+=462px
+Browser calculated height= height 150 + border 2 + padding 20
+=172px
+Browser calculated width= width 400 + border 2 + padding 20
+=172px
